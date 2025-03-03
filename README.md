@@ -10,6 +10,7 @@ Maven (For dependency management)
 Clone and Run the project 
 
 To get a copy of the project, run:
+
 git clone https://github.com/farisbst/bookcartAPI.git
 cd bookcartAPI
 
