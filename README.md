@@ -1,5 +1,10 @@
 BookCart API Automation
+
+
+
 Project Overview
+
+
 This is an API automation testing project for BookCart, designed using Java, RestAssured, TestNG, and Maven in IntelliJ IDEA. The tests cover user creation of member profile, successful login, adding books to the cart and of course the checkout process. It contains just most important files.
 Tech Stack & Dependencies
 Java (Latest version used and recommended)
